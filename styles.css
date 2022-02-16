@@ -1,0 +1,8 @@
+html {font-family:BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: 400; line-height: 1.5; background-color:#222526; text-rendering: optimizeLegibility; color:#fff}
+a {color:#96e5ff}
+h2 {font-size:120%}
+.code {background-color:#717a7e; border: 10px #484e51; border-radius:5px; padding-left:5px; padding-right:5px; padding-bottom:5px; padding-top:5px; width:auto; margin:3px}
+.header {background-color:#1c404c; border: 10px #1c404c; border-radius:5px; margin:10px; padding:10px}
+.graydiv {background-color:#484e51; border: 10px #484e51; border-radius:5px; margin:auto; padding-left:15px; padding-right:15px; padding-bottom:10px; padding-top:1px; width:60%}
+.headerlinkmain {color:#fff; font-weight:bold; text-decoration:none}
+.headerlink {color:#fff; text-decoration:none}
