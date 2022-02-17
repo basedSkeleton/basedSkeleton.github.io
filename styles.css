@@ -1,0 +1,28 @@
+html {font-family:BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: 400; line-height: 1.5; background-color:#222526; text-rendering: optimizeLegibility; color:#fff}
+a {color:#96e5ff}
+h2 {font-size:120%}
+.code {background-color:#343739; border: 10px #484e51; border-radius:5px; padding-left:5px; padding-right:5px; padding-bottom:5px; padding-top:5px; width:auto; margin:3px; font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace}
+.date {color:#b9b9b9}
+.header {background-color:#1c404c; border: 10px #1c404c; border-radius:5px; margin:10px; padding:10px}
+.graydiv {background-color:#484e51; border: 10px #484e51; border-radius:5px; margin:auto; padding-left:15px; padding-right:15px; padding-bottom:10px; padding-top:1px}
+.headerlinkmain {color:#fff; font-weight:bold; text-decoration:none}
+.headerlink {color:#fff; text-decoration:none}
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+@media only screen and (min-width: 900px) {
+.graydiv { width:60% }
+}
+@media only screen and (max-width: 600px) {
+.graydiv { width:90% }
+}
