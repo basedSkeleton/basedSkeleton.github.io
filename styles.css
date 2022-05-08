@@ -1,4 +1,4 @@
-html {font-family:BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: 400; line-height: 1.5; background-color:#222526; text-rendering: optimizeLegibility; color:#fff}
+html {font-family:BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: 400; line-height: 1.5; background-image:linear-gradient(#222526, #000000); text-rendering: optimizeLegibility; color:#fff}
 a {color:#96e5ff}
 h2 {font-size:120%}
 .im img {width: auto;
@@ -11,8 +11,11 @@ max-height: 100%;}
 .graydiv {background-color:#484e51; border: 10px #484e51; border-radius:5px; margin:auto; padding-left:15px; padding-right:15px; padding-bottom:10px; padding-top:1px}
 .headerlinkmain {color:#fff; font-weight:bold; text-decoration:none}
 .headerlink {color:#fff; text-decoration:none}
+
+/* CSS */
 .header {
   background-image: linear-gradient(#42A1EC, #0070C9);
+  filter:drop-shadow(1px 1px 5px black);
   border: 1px solid #0077CC;
   border-radius: 4px;
   color: #FFFFFF;
@@ -28,6 +31,7 @@ max-height: 100%;}
 .graydiv {
   background-image: linear-gradient(#6c7477, #484e51);
   border: 1px solid #737373;
+  filter:drop-shadow(1px 1px 5px black);
   color: #FFFFFF;
 
 }
