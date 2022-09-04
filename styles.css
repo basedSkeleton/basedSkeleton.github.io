@@ -1,0 +1,17 @@
+html {font-family: 'MinecraftiaRegular'; text-shadow: 2px 2px #000; color:#FFF; background: #211710 url(https://github.com/basedSkeleton/basedSkeleton.github.io/raw/main/Minecraft_files/bg_dirt.png);}
+body {padding:0}
+.button {background:linear-gradient(#5D5451,#857874); color:#fff; padding:3px 6px 6px 6px; border:4px #77706B outset; outline:2px #000 solid; text-decoration:none; border-style: outset outset outset inset}
+.header {background:#4E464C; padding:6px 12px 12px 12px; outline:2px solid #000; border:#29272A 2px outset; border-style: none solid solid solid; box-shadow: inset 0 2px 0 #695E60, inset 0 -2px 0 #695E60, inset -2px 0 0 #29272A, inset 2px 0 0 #29272A, 0 2px 3px 1px #000; margin:10px; margin-top:-3}
+.button:hover {color:#fff6bc}
+.button:active {filter: brightness(75%);}
+.r {float: right;}
+.wrapper {max-width:1000px; margin:auto}
+.date {color:#bbb}
+.details {padding:20px}
+.blue {color:#8898ff}
+.footer {color:#bbb; font-style: italic;}
+.img {width: auto; height: auto; max-width: 100%; max-height: 100%; outline:2px #000 solid; display: block; margin-left: auto;  margin-right: auto;}
+.link {text-decoration:none; color:#8898ff}
+.link:hover {color:#fff6bc}
+.headerlink {color:#fff; text-decoration:none;}
+.headerlinkmain {color:#fff; text-decoration:none}
